@@ -30,7 +30,7 @@ Sistemas de Informação, Universidade do Oeste Paulista (Unoeste), formatura pr
 
 ## 📫 Contato / Contact
 
-- LinkedIn: [SEU-LINKEDIN](https://www.linkedin.com/in/SEU-LINKEDIN)
-- E-mail: SEU-EMAIL
+- LinkedIn: https://www.linkedin.com/in/danielkrom/
+- E-mail: danielkrom@outlook.com
 
 > Aberto a oportunidades de nível pleno/sênior. / Open to mid/senior-level opportunities.
